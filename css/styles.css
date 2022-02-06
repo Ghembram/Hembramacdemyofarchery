@@ -1,0 +1,151 @@
+#title{
+	background-color: #98c967;
+
+
+}
+#features{
+	background-color: #98c967;
+}
+.container-fluid{
+	padding: 2% ;
+}
+.head{
+	font-family: 'Brush Script MT', cursive;
+	font-size: 6rem;
+	line-height: 1.5;
+	text-align: center;
+	color: #e36a0e;
+	background-color: #98c967;
+}
+.arch-img{
+position: absolute;
+    right: 50px;
+    top: 160px;
+}
+.row-1{
+	padding-bottom: 0px;
+}
+
+.mem{
+	float: right;
+}
+p{
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.tableFixHead {
+ 
+ table-layout: fixed;
+ border-collapse: collapse;
+ }
+ .tableFixHead tbody {
+ display: block;
+ width: 100%;
+ overflow: auto;
+ height: 150px;
+ }
+ .tableFixHead thead tr {
+ display: block;
+ }
+ .tableFixHead th,
+ .tableFixHead td {
+ padding: 5px 10px;
+ width: 200px;
+ }
+ 
+ .borderr{
+ 	border-bottom: 2px solid #000;
+
+
+ }
+ .top-header{
+ 	background-color: #98c967;
+ }
+ body {
+    background-color: #f7f6f6
+}
+
+.maincard {
+    position: relative;
+    width: 300px;
+    height: 300px
+}
+
+.thecard {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: all 0.8s ease
+}
+
+.thecard:hover {
+    transform: rotateY(180deg)
+}
+
+.thefront {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: hidden;
+    background: #98c967;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+    border: 1px solid #eee;
+    box-shadow: 5px 6px 6px 2px #e9ecef;
+    padding: 10px
+    overflow: auto;
+}
+
+.theback {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    background-color: hidden;
+    background: #98c967;
+    color: #fff;
+    border-radius: 10px;
+    transform: rotateY(180deg);
+    border: 1px solid #eee;
+    box-shadow: 5px 6px 6px 2px #e9ecef;
+    padding: 10px
+    overflow: auto;
+}
+
+.user_name {
+    color: #eee;
+    font-size: 10px;
+    margin-top: 0px
+}
+
+.about {
+    font-size: 12px
+}
+
+
+.aboutus{
+	text-align: center;
+}
+footer{
+	background-color: #000;
+	text-align: center;
+}
+footer a{
+	margin-right: 10px;
+	color: #398577;
+}
+.d-flex{
+	text-align: right;
+}
+.buttons{
+	position: absolute;
+	right: 20px;
+	top: 4px;
+}
+.navbar-dark .navbar-nav .nav-link:hover{
+color: #488507!important;
+}
+
+
