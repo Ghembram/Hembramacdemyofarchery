@@ -1,10 +1,10 @@
 #title{
-	background-color: #98c967;
+	background-color: #02fa97;
 
 
 }
 #features{
-	background-color: #98c967;
+	background-color: #02fa97;
 }
 .container-fluid{
 	padding: 2% ;
@@ -15,7 +15,7 @@
 	line-height: 1.5;
 	text-align: center;
 	color: #e36a0e;
-	background-color: #98c967;
+	background-color: #02fa97;
 }
 .arch-img{
 position: absolute;
@@ -30,7 +30,7 @@ position: absolute;
 	float: right;
 }
 p{
-	font-family: "Lucida Console", "Courier New", monospace;
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 .tableFixHead {
@@ -88,7 +88,7 @@ p{
     width: 100%;
     height: 100%;
     background-color: hidden;
-    background: #98c967;
+    background: #351052;
     color: #fff;
     border-radius: 10px;
     cursor: pointer;
@@ -104,7 +104,7 @@ p{
     height: 100%;
     cursor: pointer;
     background-color: hidden;
-    background: #98c967;
+    background: #351052;
     color: #fff;
     border-radius: 10px;
     transform: rotateY(180deg);
@@ -147,5 +147,10 @@ footer a{
 .navbar-dark .navbar-nav .nav-link:hover{
 color: #488507!important;
 }
-
+#more {display: none;}
+#more1 {display: none;}
+#more2 {display: none;}
+#more3 {display: none;}
+#more4 {display: none;}
+#more5 {display: none;}
 
